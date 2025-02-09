@@ -1,4 +1,8 @@
 Natalie Portman
 Scarlett Johansson
 Angelina Jolie
+<<<<<<< HEAD
 Penelope Cruz
+=======
+Ana de armas
+>>>>>>> cf9eef0a2a8e001cd07ef40f193dce8bdcc44376
